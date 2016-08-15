@@ -41,7 +41,7 @@
 $('#button-confirm').bind('click', function() {
 	$.ajax({ 
 		type: 'get',
-		url: 'index.php?route=payment/bank_transfer/confirm',
+		url: 'index.php?route=payment/bank_payment/confirm',
 		success: function() {
 			location = '<?php echo $continue; ?>';
 		}		
