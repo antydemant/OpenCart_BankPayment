@@ -1,2 +1,2 @@
 # OpenCart_BankPayment
-OpenCart BankPayment
+OpenCart BankPayment like WooCommerce
